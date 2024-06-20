@@ -279,9 +279,11 @@ body{
     }
     .head{
         width:100%;
+        margin-left: 20px;
+        margin-right: 10px;
     }
     .login-subform{
-        padding-inline: 40px;
+        padding-inline: 10px;
     }
     #name1,#name2{
         font-size: 14px;
@@ -304,19 +306,20 @@ body{
         width:100%;
     }
     .hr-lines{
-        width:240px;
+        width:275px;
     }
     .hr-lines:before{
-        width:70px;
+        width:85px;
     }
     .hr-lines:after{
-        width: 70px;
+        width: 85px;
     }
     #agree,#terms,#reg{
         font-size: 10px;
     }
     .rights p{
         font-size: 10px;
+        padding-top: 70px;
     }
 }
 @media (min-width:641px) and (max-width:840px){
