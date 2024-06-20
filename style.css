@@ -279,10 +279,9 @@ body{
     }
     .head{
         width:100%;
-        padding-block: 140px;
     }
     .login-subform{
-        padding-inline: 15px;
+        padding-inline: 40px;
     }
     #name1,#name2{
         font-size: 14px;
@@ -305,13 +304,13 @@ body{
         width:100%;
     }
     .hr-lines{
-        width:200px;
+        width:240px;
     }
     .hr-lines:before{
-        width:60px;
+        width:70px;
     }
     .hr-lines:after{
-        width: 60px;
+        width: 70px;
     }
     #agree,#terms,#reg{
         font-size: 10px;
@@ -326,7 +325,6 @@ body{
     }
     .head{
         width:100%;
-        padding-block: 100px;
     }
     .login-subform{
         padding-inline: 25px;
