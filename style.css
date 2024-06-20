@@ -333,10 +333,11 @@ body{
         width:100%;
         margin-left: 40px;
         margin-right: 20px;
-        margin-top: 50px;
+        margin-top: 100px;
     }
     .login-subform{
         padding-inline: 140px;
+        padding-block: 50px;
     }
     .element{
         margin-left: 10px;
@@ -391,7 +392,7 @@ body{
     }
     .rights p{
         font-size: 12px;
-        padding-top: 100px;
+        padding-top: 140px;
     }
 }
 @media (min-width:841px) and (max-width:1200px){
