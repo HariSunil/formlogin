@@ -396,9 +396,6 @@ body{
     }
 }
 @media (min-width:841px) and (max-width:1200px){
-    body{
-        background: white;
-    }
     .head{
         margin-top: 70px;
     }
