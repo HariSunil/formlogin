@@ -32,11 +32,17 @@ body{
     background:white;
     margin-inline: 65px;
     padding-top:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .chart{
     width: 50%;
     height:100vh;
     background:rgb(104,65,218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .sub-head{
     display: inline-flex;
