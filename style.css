@@ -49,7 +49,7 @@ body{
  }
  .sub-head p{
     font-family: 'regularfont';
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 700;
 } 
 .login-subform{
@@ -62,7 +62,7 @@ body{
     font-weight: 800;
 }
 .main-form p{
-    font-size: 11px;
+    font-size: 12px;
     font-family: 'lightfont';
     font-weight: 700;
     margin-top: 10px;
@@ -120,7 +120,7 @@ body{
     text-decoration: none;
     cursor: pointer;
     border-radius: 8px;
-    font-size: 11px;
+    font-size: 12px;
     font-family: 'bold';
   }
   .hr-lines:before{
@@ -137,7 +137,7 @@ body{
     position: relative;
     max-width: 300px;
     margin: 4px auto;
-    font-size: 11px;
+    font-size: 12px;
     text-align: center;
     font-family: 'regularfont';
     color: lightgray;
@@ -176,13 +176,13 @@ body{
     margin-bottom: 15px;
   }
   #name1,#name2{
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 600;
     font-family: 'bold';
     line-height: 30px;
   }
   #agree,#terms{
-    font-size: 9px;
+    font-size: 10px;
      font-weight: 900;
     font-family: 'lightfont';
     position: relative;
@@ -221,7 +221,7 @@ body{
     padding-top: 20px;
 }
 #reg{
-    font-size: 9px;
+    font-size: 10px;
     font-family: 'lightfont';
 }
 .register a{
@@ -232,7 +232,7 @@ body{
     font-weight: 600;
 }
 .rights p{
-     font-size: 10px;
+     font-size: 11px;
      font-family: 'regularfont';
      font-weight: 500;
      margin-top: 60px;
@@ -258,7 +258,7 @@ body{
  }   
  .chart h2{
      color:white;
-     font-size: 23px;
+     font-size: 24px;
      font-weight: 700;
      font-family: 'regularfont';
      text-align: center;
@@ -267,7 +267,7 @@ body{
  }
  #dev{
      color:white;
-     font-size: 11px;
+     font-size: 12px;
      font-family: 'lightfont';
      font-weight: 900;
      text-align: center;
